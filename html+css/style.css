@@ -1,0 +1,36 @@
+h1 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 54px;
+  color: #ecc91d;
+}
+
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  color: #1a0ecb;
+}
+
+p {
+  font-size: 60px;
+}
+
+.box-orange {
+  width: 300px;
+  height: 300px;
+  float: left;
+  background-color: rgb(255, 153, 102);
+}
+
+.box-blue {
+  width: 300px;
+  height: 300px;
+  float: left;
+  background-color: #3333ff;
+}
+
+.box-yellow {
+  width: 300px;
+  height: 300px;
+  float: left;
+  background-color: gold;
+}
